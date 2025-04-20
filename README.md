@@ -95,7 +95,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact 19manikandan2005@gmail.com.
+For any inquiries, please contact kishoreupk@gmail.com.
 ---
 
-Developed by **[max-mani](https://github.com/max-mani)** and Team KoreConnect.
+Developed by **(https://github.com/Kishore-028/software.git)** and Team KoreConnect.
